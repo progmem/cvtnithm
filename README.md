@@ -2,6 +2,13 @@
 
 CVT2ALLS is a cable adapter in PCB form. That's about it!
 
+Thanks to [@48productions](https://github.com/48productions) who made a guide on how to make all the necessary wiring and made me realize:
+
+* Digikey doesn't sell the crimpable version of the connector
+* I'm not buying a single part from JST directly
+* also i don't want to buy a specialty crimper for molex pins (_except i kinda had to for handling ac power lmao_)
+* also i'm lazy, but not lazy enough to make a pcb
+
 ## I'm sorry I didn't have a creative name for this project
 
 To build this, you will need the following components:
@@ -36,5 +43,3 @@ Print the two 3MF files included in this repository. Remove the support material
 * Slide the bottom bracket as far down as you can. The metal of the PCI bracket should slide into a notch in the print.
 * Looking at the ALLS from the top, fit the CVT2ALLS PCB into the notch in the bottom bracket. The CVT2ALLS board will be installed _inside_ the ALLS, with the IDC connectors facing downward.
 * Place the top bracket over the CVT2ALLS PCB so the flat side is facing you, with the screw hole towards you. Reinstall the two PCI screws, making sure the CVT2ALLS PCB is retained by the bracket.
-
-
