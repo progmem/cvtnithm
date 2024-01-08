@@ -37,7 +37,7 @@ Solder each of these connectors in their respective places; each connector has a
 
 ## What about mounting?
 
-Print the two 3MF files included in this repository. Remove the support material off of the bottom bracket and install everything as follows; note that the rear of the ALLS should be facing you and will be described as the "front".
+Print the two 3MF files included in this repository with the flat portions facing downward. The bottom bracket will need support material, and will require a bit of work with a pick to remove. With the rear of the ALLS facing you (herein described as the "front"), install everything as follows:
 
 * Insert the bottom bracket into the two empty PCI slots from the _front_. The flat side should be facing you, with the `U` shape upward.
 * Slide the bottom bracket as far down as you can. The metal of the PCI bracket should slide into a notch in the print.
