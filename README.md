@@ -1,6 +1,6 @@
-# CVT2ALLS
+# CVTnithm
 
-CVT2ALLS is a cable adapter in PCB form. That's about it!
+CVTnithm is a cable adapter in PCB form. That's about it!
 
 Thanks to [@48productions](https://github.com/48productions) who made a guide on how to make all the necessary wiring and made me realize:
 
@@ -32,7 +32,7 @@ Solder each of these connectors in their respective places; each connector has a
 * Open up your ALLS and locate the bundle of unused cables. Undo this bundle and find the unused cable containing two PC 4-pin power connectors and a floppy drive connector.
   * This is the cable we'll be using to supply power; there should be _just_ enough length for this cable to reach.
 * Remove the serial brackets by undoing the two PCI bracket screws, unplugging them from the motherboard in the process.
-* Note the `COM_` number on each of the serial ports on the motherboard. Plug one IDC cable into each of the serial ports. Plug the other end into the CVT2ALLS PCB into its respective `COM_` port.
+* Note the `COM_` number on each of the serial ports on the motherboard. Plug one IDC cable into each of the serial ports. Plug the other end into the CVTnithm PCB into its respective `COM_` port.
 * Plug in the two PC 4-pin power connectors.
 
 ## What about mounting?
@@ -41,5 +41,5 @@ Print the two 3MF files included in this repository with the flat portions facin
 
 * Insert the bottom bracket into the two empty PCI slots from the _front_. The flat side should be facing you, with the `U` shape upward.
 * Slide the bottom bracket as far down as you can. The metal of the PCI bracket should slide into a notch in the print.
-* Looking at the ALLS from the top, fit the CVT2ALLS PCB into the notch in the bottom bracket. The CVT2ALLS board will be installed _inside_ the ALLS, with the IDC connectors facing downward.
-* Place the top bracket over the CVT2ALLS PCB so the flat side is facing you, with the screw hole towards you. Reinstall the two PCI screws, making sure the CVT2ALLS PCB is retained by the bracket.
+* Looking at the ALLS from the top, fit the CVTnithm PCB into the notch in the bottom bracket. The CVTnithm board will be installed _inside_ the ALLS, with the IDC connectors facing downward.
+* Place the top bracket over the CVTnithm PCB so the flat side is facing you, with the screw hole towards you. Reinstall the two PCI screws, making sure the CVTnithm PCB is retained by the bracket.
